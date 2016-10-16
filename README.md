@@ -2,8 +2,8 @@
 Llenguatges de marques penjats:
 
 
-1. exemple CSS.txr
-2. exemple HTML
-3. exemple PS
-4. exemple RTF
-5. exemple XML
+1. exemple CSS.css
+2. exemple HTML.htm
+3. exemple PS.ps
+4. exemple RTF.rtf
+5. exemple XML.xml
