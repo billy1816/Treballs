@@ -1,6 +1,7 @@
 # Introducció als Llenguatges de Marques LLSGI-01
 #####Com deia l'enunciat, he creat 5 exemples de diferents llenguatges de marques i els he penjat aquí, al meu repositori de GitHub.
-__Els fitxers són:__
+Els fitxers són:
+----
 
 1. exemple CSS.css, codi extret del [PDF][pdf]
 2. exemple HTML.htm
