@@ -1,7 +1,7 @@
 # Introducció als Llenguatges de Marques LLSGI-01
 Llenguatges de marques penjats:
 
-1. exemple CSS.css[pdf]
+1. [exemple CSS.css][pdf]
 2. exemple HTML.htm
 3. exemple PS.ps
 4. exemple RTF.rtf
