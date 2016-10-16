@@ -1,9 +1,11 @@
 # Introducció als Llenguatges de Marques LLSGI-01
 Com deia l'enunciat, he creat 5 exemples de diferents __llenguatges de marques__ i els he penjat aquí, al meu repositori de **_GitHub_**.
 Per obrir alguns dels formats que es demanaven he hagut d'utilitzar els següents programes: 
+**
 * XML Explorer
 * GSview 5.0
 * Visual Studio Community 2015
+**
 
 Els fitxers són:
 ----
