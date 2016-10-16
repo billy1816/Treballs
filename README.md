@@ -4,6 +4,7 @@ Per obrir alguns dels formats que es demanaven he hagut d'utilitzar els següent
 * XML Explorer
 * GSview 5.0
 * Visual Studio Community 2015
+
 Els fitxers són:
 ----
 
