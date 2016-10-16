@@ -1,5 +1,5 @@
 # Introducció als Llenguatges de Marques LLSGI-01
-Com deia l'enunciat, he creat 5 exemples de diferents __llenguatges de marques__ i els he penjat aquí, al meu repositori de __*GitHub__*.
+Com deia l'enunciat, he creat 5 exemples de diferents __llenguatges de marques__ i els he penjat aquí, al meu repositori de _*GitHub_*.
 Els fitxers són:
 ----
 
