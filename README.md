@@ -21,5 +21,5 @@ Els fitxers són:
 [linuxfocux.org]:http://www.linuxfocus.org/Castellano/May1998/article43.html
 
 [flanagan.ugr.es]:http://flanagan.ugr.es/xml/documento.htm
-
+----
 El Css funciona amb l'HTML
